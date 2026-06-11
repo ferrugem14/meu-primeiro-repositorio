@@ -6,6 +6,7 @@
 ## Objetivo 
 Aprender a utilizar Git e GitHub.
 ## Aprendizado
-Nesta aividade, aprendi a enviar alterações para GitHub.
+Atualização realizada diretamente no GitHub.
+
 
 
